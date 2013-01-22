@@ -1,3 +1,8 @@
-# How does it work?
+# Commanding
 
-Enter Text in Markdown format.
+txt smash
+ring ranstad
+washing
+home
+
+fnchip cards
